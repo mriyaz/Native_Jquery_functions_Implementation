@@ -1,4 +1,4 @@
-# Native_Jquery_functions_Implementation
+# Native Jquery functions Implementation
 Some of the most important native Jquery functions have been implemented using core javascript. This helps javascript developers to understand Jquery and DOM better, by knowing what happends under the hood. 
 
 1. $ 
